@@ -18,5 +18,9 @@
 - [Quiz Game Python](https://github.com/monjenahuel/QuizPython)
 - [Uberto](https://github.com/monjenahuel/Uberto)
 
+#### Si te interesa mi perfil podes contactarme por mi [Linkedin](https://www.linkedin.com/in/monjenahuel/)
+
+
+
 
 
