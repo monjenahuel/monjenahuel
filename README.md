@@ -1,16 +1,22 @@
-### Hi there 👋
+# Nahuel Monje Trainee Backend Developer :computer:
 
-<!--
-**monjenahuel/monjenahuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **Bienvenidos a mi github**.
 
-Here are some ideas to get you started:
+### Un poco sobre mi:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Licenciatura en informatica (Terminando 2do año)
+- 💻 Tecnico Universitario en programación (15/19 materias)
+- 🔐 Backend
+- :bar_chart: Datos
+- ✔️ Team Worker
+
+### Acá vas a encontrar algunos de los proyectos en los que estuve trabajando:
+
+- [Crud en Python](https://github.com/monjenahuel)
+- [Sistema Clinica en Java](https://github.com/monjenahuel)
+- [Ecommerce Estatico](https://monjenahuel.github.io/EcommerceEstatico/)
+- [Quiz Game Python](https://github.com/monjenahuel/QuizPython)
+- [Uberto](https://github.com/monjenahuel/Uberto)
+
+
+
