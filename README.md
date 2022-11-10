@@ -14,7 +14,7 @@
 
 - [Crud en Python](https://github.com/monjenahuel)
 - [Sistema Clinica en Java](https://github.com/monjenahuel)
-- [Ecommerce Estatico](https://github.com/EcommerceEstatico/)
+- [Ecommerce Estatico](https://github.com/monjenahuel/EcommerceEstatico/)
 - [Quiz Game Python](https://github.com/monjenahuel/QuizPython)
 - [Uberto](https://github.com/monjenahuel/Uberto)
 
