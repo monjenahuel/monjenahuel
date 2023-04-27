@@ -4,7 +4,7 @@
 
 ### Un poco sobre mi:
 
-- 🎓 Licenciatura en informatica (Terminando 2do año)
+- 🎓 Licenciatura en informatica (Cursando 3er año)
 - 💻 Tecnico Universitario en programación (15/19 materias)
 - 🔐 Backend
 - :bar_chart: Datos
