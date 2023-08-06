@@ -12,12 +12,10 @@
 
 ### Acá vas a encontrar algunos de los proyectos en los que estuve trabajando:
 
+- [Sistema Clinica en SpringBoot y Angular](https://github.com/monjenahuel/TurneraHospitalBackSpringBoot)
 - [JBNM (Sistema de gestion para locales gastronomicos)](https://github.com/monjenahuel/JBNM-backend)
-- [Crud en Python](https://github.com/monjenahuel)
-- [Sistema Clinica en Java](https://github.com/monjenahuel)
-- [Ecommerce Estatico](https://github.com/monjenahuel/EcommerceEstatico/)
-- [Quiz Game Python](https://github.com/monjenahuel/QuizPython)
-- [Uberto](https://github.com/monjenahuel/Uberto)
+- [Web catalogo de juegos React](https://free-toplay.netlify.app/)
+- [LandingPage React](https://monjenahuel.github.io/CuiUnahur-P1/)
 
 #### Si te interesa mi perfil podes contactarme por mi [Linkedin](https://www.linkedin.com/in/monjenahuel/)
 
