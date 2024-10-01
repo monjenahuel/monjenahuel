@@ -1,11 +1,11 @@
-# Nahuel Monje Trainee Backend Developer :computer:
+# Nahuel Monje Backend Developer :computer:
 
 ## **Bienvenidos a mi github**.
 
 ### Un poco sobre mi:
 
-- 🎓 Licenciatura en informatica (Cursando 3er año)
-- 💻 Tecnico Universitario en programación (15/19 materias)
+- 💻 Tecnico Universitario en programación
+- 🎓 Cursando la Licenciatura en informatica
 - 🔐 Backend
 - :bar_chart: Datos
 - ✔️ Team Worker
