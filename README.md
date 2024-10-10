@@ -12,6 +12,7 @@
 
 ### Acá vas a encontrar algunos de los proyectos en los que estuve trabajando:
 
+- [Ecommerce NestJS y Angular](https://monjenahuel.github.io/EcommerceAngular/carrito)
 - [Sistema Clinica en SpringBoot y Angular](https://github.com/monjenahuel/TurneraHospitalBackSpringBoot)
 - [JBNM (Sistema de gestion para locales gastronomicos)](https://github.com/monjenahuel/JBNM-backend)
 - [Web catalogo de juegos React](https://free-toplay.netlify.app/)
